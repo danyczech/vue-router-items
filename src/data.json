@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Teddy bear",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ea animi assumenda rerum. Suscipit debitis rerum ut quos soluta impedit.",
+      "isImportant": true
+    },
+    {
+      "id": 2,
+      "title": "ZOO visit",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto beatae, eligendi nostrum officiis doloribus blanditiis quis incidunt animi cumque quidem ex ab velit, dignissimos, maiores ad modi error. Nesciunt, deserunt.",
+      "isImportant": false
+    },
+    {
+      "id": 3,
+      "title": "Dog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ea animi assumenda rerum. Suscipit debitis rerum ut quos soluta impedit.",
+      "isImportant": true
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter book",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto beatae, eligendi nostrum officiis doloribus blanditiis quis incidunt animi cumque quidem ex ab velit, dignissimos, maiores ad modi error. Nesciunt, deserunt.",
+      "isImportant": false
+    }
+  ]
+}
